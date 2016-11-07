@@ -1,9 +1,9 @@
 {
-    "name": "ancarebeca/full-calendar-bundle",
+    "name": "holtz-mb/full-calendar-bundle",
     "description": "Symfony2 integration with the library FullCalendar.js",
     "type": "symfony-bundle",
     "keywords": ["calendar", "fullcalendar", "jquery calendar", "symfony2 calendar", "symfony2 bundle"],
-    "homepage": "https://github.com/ancarebeca/FullCalendarBundle",
+    "homepage": "https://github.com/holtz-mb/FullCalendarBundle",
     "license": "MIT",
     "authors": [
         {
