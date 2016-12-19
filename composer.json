@@ -3,7 +3,7 @@
     "description": "Symfony2 integration with the library FullCalendar.js",
     "type": "symfony-bundle",
     "keywords": ["calendar", "fullcalendar", "jquery calendar", "symfony2 calendar", "symfony2 bundle"],
-    "homepage": "https://github.com/holtz-mb/FullCalendarBundle",
+    "homepage": "https://github.com/shdev/FullCalendarBundle",
     "license": "MIT",
     "authors": [
         {
@@ -15,7 +15,7 @@
     "require": {
         "php": ">=5.5.9",
 
-        "symfony/symfony": "3.1.*"
+        "symfony/symfony": ">3.1.*"
     },
     "require-dev": {
         "phpspec/phpspec": "^2.2"
